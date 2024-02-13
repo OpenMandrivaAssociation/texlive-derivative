@@ -1,5 +1,5 @@
 Name:		texlive-derivative
-Version:	68787
+Version:	69746
 Release:	1
 Summary:	Nice and easy derivatives
 Group:		Publishing
